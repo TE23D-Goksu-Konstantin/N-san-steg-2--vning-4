@@ -1,0 +1,14 @@
+C:\Users\konstantin.goksu\Documents\Programmering 1\Näsan övningar\Näsan steg 2 övning 4\Näsan steg 2 övning 4\bin\Debug\net8.0\Näsan steg 2 övning 4.exe
+C:\Users\konstantin.goksu\Documents\Programmering 1\Näsan övningar\Näsan steg 2 övning 4\Näsan steg 2 övning 4\bin\Debug\net8.0\Näsan steg 2 övning 4.deps.json
+C:\Users\konstantin.goksu\Documents\Programmering 1\Näsan övningar\Näsan steg 2 övning 4\Näsan steg 2 övning 4\bin\Debug\net8.0\Näsan steg 2 övning 4.runtimeconfig.json
+C:\Users\konstantin.goksu\Documents\Programmering 1\Näsan övningar\Näsan steg 2 övning 4\Näsan steg 2 övning 4\bin\Debug\net8.0\Näsan steg 2 övning 4.dll
+C:\Users\konstantin.goksu\Documents\Programmering 1\Näsan övningar\Näsan steg 2 övning 4\Näsan steg 2 övning 4\bin\Debug\net8.0\Näsan steg 2 övning 4.pdb
+C:\Users\konstantin.goksu\Documents\Programmering 1\Näsan övningar\Näsan steg 2 övning 4\Näsan steg 2 övning 4\obj\Debug\net8.0\Näsan steg 2 övning 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konstantin.goksu\Documents\Programmering 1\Näsan övningar\Näsan steg 2 övning 4\Näsan steg 2 övning 4\obj\Debug\net8.0\Näsan steg 2 övning 4.AssemblyInfoInputs.cache
+C:\Users\konstantin.goksu\Documents\Programmering 1\Näsan övningar\Näsan steg 2 övning 4\Näsan steg 2 övning 4\obj\Debug\net8.0\Näsan steg 2 övning 4.AssemblyInfo.cs
+C:\Users\konstantin.goksu\Documents\Programmering 1\Näsan övningar\Näsan steg 2 övning 4\Näsan steg 2 övning 4\obj\Debug\net8.0\Näsan steg 2 övning 4.csproj.CoreCompileInputs.cache
+C:\Users\konstantin.goksu\Documents\Programmering 1\Näsan övningar\Näsan steg 2 övning 4\Näsan steg 2 övning 4\obj\Debug\net8.0\Näsan steg 2 övning 4.dll
+C:\Users\konstantin.goksu\Documents\Programmering 1\Näsan övningar\Näsan steg 2 övning 4\Näsan steg 2 övning 4\obj\Debug\net8.0\refint\Näsan steg 2 övning 4.dll
+C:\Users\konstantin.goksu\Documents\Programmering 1\Näsan övningar\Näsan steg 2 övning 4\Näsan steg 2 övning 4\obj\Debug\net8.0\Näsan steg 2 övning 4.pdb
+C:\Users\konstantin.goksu\Documents\Programmering 1\Näsan övningar\Näsan steg 2 övning 4\Näsan steg 2 övning 4\obj\Debug\net8.0\Näsan steg 2 övning 4.genruntimeconfig.cache
+C:\Users\konstantin.goksu\Documents\Programmering 1\Näsan övningar\Näsan steg 2 övning 4\Näsan steg 2 övning 4\obj\Debug\net8.0\ref\Näsan steg 2 övning 4.dll
